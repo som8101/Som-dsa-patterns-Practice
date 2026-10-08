@@ -1,4 +1,4 @@
-# 🚀 Babua DSA Patterns Course 2025 – 90 Day Challenge (by CTO Bhaiya)
+# 🚀 Somnath DSA Patterns Course 2025 – 90 Day Challenge (by CTO Bhaiya)
 
 Welcome to the **DSA Patterns 2025** Course — a **90-day challenge** to master the **30 core coding patterns** used in FAANG and top product interviews.  
 Instead of solving 1000 random questions, you'll learn how to **think in patterns** — and solve any problem confidently.
